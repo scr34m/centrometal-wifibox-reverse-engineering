@@ -11,16 +11,16 @@ An "expensive" extra device after you paid a good amount for a boiler, this smal
 
 ## RJ45 socket
 
-1 orange white - A
-2 orange - B
-3 green white - GND
-4 blue - GND
-5 blue white - 12V
-6 green - 12V
-7 brown white - GND
-8 brown - GND
+- 1 orange white - A
+- 2 orange - B
+- 3 green white - GND
+- 4 blue - GND
+- 5 blue white - 12V
+- 6 green - 12V
+- 7 brown white - GND
+- 8 brown - GND
 
-Serial communication used over the UTP wire on 57600 baud with Modbus async serial
+Serial communication is used over the UTP wire on 57600 baud with modbus
 
 ## STM32F070CBT6 Memory map
 
